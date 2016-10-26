@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Developers? Who are they anyway?",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "panpan-lin",
+    "githubRepository": "developer-awareness-day"
+  }
+}
